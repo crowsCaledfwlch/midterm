@@ -1,0 +1,17 @@
+C:\Users\paradoxSatire\Documents\GUIDev\midterm\bin\Debug\midterm.exe.config
+C:\Users\paradoxSatire\Documents\GUIDev\midterm\bin\Debug\midterm.exe
+C:\Users\paradoxSatire\Documents\GUIDev\midterm\bin\Debug\midterm.pdb
+C:\Users\paradoxSatire\Documents\GUIDev\midterm\bin\Debug\midterm.xml
+C:\Users\paradoxSatire\Documents\GUIDev\midterm\obj\Debug\midterm.vbproj.AssemblyReference.cache
+C:\Users\paradoxSatire\Documents\GUIDev\midterm\obj\Debug\MainWindow.g.vb
+C:\Users\paradoxSatire\Documents\GUIDev\midterm\obj\Debug\Application.g.vb
+C:\Users\paradoxSatire\Documents\GUIDev\midterm\obj\Debug\midterm_MarkupCompile.cache
+C:\Users\paradoxSatire\Documents\GUIDev\midterm\obj\Debug\midterm_MarkupCompile.lref
+C:\Users\paradoxSatire\Documents\GUIDev\midterm\obj\Debug\MainWindow.baml
+C:\Users\paradoxSatire\Documents\GUIDev\midterm\obj\Debug\midterm.g.resources
+C:\Users\paradoxSatire\Documents\GUIDev\midterm\obj\Debug\midterm.Resources.resources
+C:\Users\paradoxSatire\Documents\GUIDev\midterm\obj\Debug\midterm.vbproj.GenerateResource.cache
+C:\Users\paradoxSatire\Documents\GUIDev\midterm\obj\Debug\midterm.vbproj.CoreCompileInputs.cache
+C:\Users\paradoxSatire\Documents\GUIDev\midterm\obj\Debug\midterm.exe
+C:\Users\paradoxSatire\Documents\GUIDev\midterm\obj\Debug\midterm.xml
+C:\Users\paradoxSatire\Documents\GUIDev\midterm\obj\Debug\midterm.pdb
